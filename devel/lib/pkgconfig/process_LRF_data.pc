@@ -1,0 +1,8 @@
+prefix=/home/sdd/muti_LRF_calibration/devel
+
+Name: process_LRF_data
+Description: Description of process_LRF_data
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
