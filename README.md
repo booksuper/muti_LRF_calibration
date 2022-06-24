@@ -1,4 +1,4 @@
-![](/home/sdd/muti_LRF_calibration/README.assets/雷达标定封面.jpg)
+![lidar_cover](README.assets/lidar_cover.jpg)
 
 # 简介
 
@@ -8,4 +8,4 @@
 
 # 算法框架
 
-![雷达标定算法框架](/home/sdd/muti_LRF_calibration/README.assets/雷达标定算法框架-16560559981171.png)
+![lidar_frame](README.assets/lidar_frame.png)
